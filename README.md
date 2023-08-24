@@ -1,2 +1,2 @@
 # SAHomeLoansFinal
-SAHomeload Automation Challenge
+SAHomeloan Automation Challenge
